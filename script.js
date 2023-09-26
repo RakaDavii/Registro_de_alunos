@@ -1,4 +1,3 @@
-c
 // Gatilho de evento para, quando o "metodo" sofrer alguma alteração, a função exibirForm é acionada
 document.getElementById("metodo").addEventListener("change", exibirForm);
 
